@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+2348140825959"
-global.ownername = "🦄BADBOI 🕷🕸v1"
-global.ytname = "YT: BADBOI 🕷🕸v1"
+global.ownernomer = "+2348140825959","+23288429245"
+global.ownername = "🦄Takeoff 🕷🕸v1"
+global.ytname = "YT: Takeoff 🕷🕸v1"
 global.socialm = "GitHub: DGXeon"
-global.location = "Nigeria, ogun-state, ilese"
+global.location = "Nigeria, ogun-state, ilese","Sierra Leone,Freetown,31 Liverpool street
 
-global.ownernumber = '+2348140825959'  //creator number
-global.ownername = '🦄BADBOI 🕷🕸v1' //owner name
+global.ownernumber = '+2348140825959','+23288429245  //creator number
+global.ownername = '🦄Takeoff 🕷🕸v1' //owner name
 global.botname = '🕷🕸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄 BADBOI 🕷🕸v1\n\nContact: +2348140825959'
+global.author = '🦄 Takeoff 🕷🕸v1\n\nContact: +2348140825959','+23288429245'
 
 //console view/theme
 global.themeemoji = '👿'
-global.wm = "badboi Bot Inc."
+global.wm = "Takeoff Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
